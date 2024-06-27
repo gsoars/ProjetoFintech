@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@300&amp;display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo-fixed-size {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    margin-top: 190px;
+    margin-bottom: 50;
+}
+.form-outline {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background: #f8f9fa;
+    background: linear-gradient(to right, #f8f9fa, #AFEEEE);
+    padding: 20px;
+
+.login-buttons {
+    margin-top: 20px;
+}
+.btn-sm {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875rem; 
+}
+
+.fa-sm {
+    font-size: 0.875rem;
+}
+.body {
+    background-image: url('./imagens/fundo.PNG');
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
